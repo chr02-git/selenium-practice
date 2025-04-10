@@ -12,3 +12,7 @@ search_box.send_keys(Keys.RETURN)
 time.sleep(3)
 # driver.quit()
 input("ブラウザを確認したらEnterを押してください")
+
+
+
+
