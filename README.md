@@ -13,9 +13,10 @@ PythonとSeleniumを使用して、Google検索を自動で実行するスクリ
 
 
 ## 📁 含まれているテスト
-- `google_search.py`: Google検索自動化テスト
+- `google_search/` : Google検索自動化
+   -`google_search.py` : Google検索自動化テスト(正常例)
 - `login_test/`: ログインフォームの正常・異常テスト
-    - `login_success.py`: 正しい認証情報でのログイン(開発中)
+    - `login_success.py`: 正しい認証情報でのログイン
     - `login_invalid.py`: 誤った認証情報でのエラーメッセージ検出(開発中)
 
 ## 📚 学び・気づき（Git/GitHub・構成整理）
