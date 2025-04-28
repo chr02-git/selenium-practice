@@ -13,6 +13,8 @@ PythonとSeleniumを使用して、Google検索を自動で実行するスクリ
 
 
 ## 📁 含まれているテスト
+- `element_existence/`: 画面上の特定要素の存在確認
+   - `check_login_button.py` : ログインボタンの確認 
 - `google_search/` : Google検索自動化
    - `google_search.py` : Google検索自動化テスト(正常例)
 - `login_test/`: ログインフォームの正常・異常テスト
